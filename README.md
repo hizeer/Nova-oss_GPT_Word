@@ -1,6 +1,6 @@
-# :dark_sunglasses: Add ChatGPT to Microsoft Word &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=How%20to%20add%20ChatGPT's%20Text%20Completion%20functionality%20to%20Microsoft%20Word.&url=https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word&via=analyticsmotion&hashtags=chatgpt,openai,Microsoft365,davinci)
+# :dark_sunglasses: Add NovaAI to Microsoft Word &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=How%20to%20add%20ChatGPT's%20Text%20Completion%20functionality%20to%20Microsoft%20Word.&url=https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word&via=analyticsmotion&hashtags=chatgpt,openai,Microsoft365,davinci)
 
-How to add ChatGPT's Text Completion functionality to Microsoft Word.
+How to add NovaAI's Text Completion functionality to Microsoft Word.
 <br /><br />
 
 <!-- badges: start -->
@@ -21,22 +21,17 @@ How to add ChatGPT's Text Completion functionality to Microsoft Word.
 With the click of a single button you can access ChatGPT's awesome natural language capabilies in Microsoft Word
 <br /><br />
 
-
-
 https://user-images.githubusercontent.com/52817125/218468803-5cdfbda3-4a5f-4d74-aaec-2a136e9b7956.mp4
-
-
 
 <br />
 
 <!-- GETTING STARTED -->
 ## 2. Getting Started
 ### 2.1 Dependencies
-- Requires an OpenAI API Key (create an account and get API Key at <a href="https://chat.openai.com">https://chat.openai.com</a>)
+- Requires a NovaAI API Key (create an account and get API Key at <a href="https://nova-oss.com/">https://nova-oss.com/</a>)
 - Requires Microsoft Windows 10/11 (<a href="https://www.microsoft.com/en-au/windows">https://www.microsoft.com/en-au/windows</a>)
 - Requires Microsoft Word 365 (<a href="https://www.microsoft.com/en-us">https://www.microsoft.com/en-us</a>)
 
-Please be aware of the [costs](https://openai.com/pricing) associated with using the OpenAI API when utilizing this project.
 <br /><br />
     
 <!-- INSTRUCTIONS -->
@@ -79,7 +74,7 @@ There are 4 basic steps in order to add a ChatGPT button into Microsoft Word:
   1. Enable the Developer Tab
   2. Import the VBA script file
   3. Create the ChatGPT button 
-  4. Add your OpenAI APIKey
+  4. Add your NovaAI APIKey
 
 Each of these steps are fully outlined below. 
 <br /><br />
@@ -179,15 +174,13 @@ After the preceding steps have been completed the Microsoft Word screen should l
 <img src=".github/assets/images/add-env-var-step-3.png" width=50% height=50%>
 <br />
 
-**Step 4** - Type the variable name **OPENAI_API_KEY** in the first field and your OpenAI APIKEY in the variable value field. Then click OK.
+**Step 4** - Type the variable name **NOVA-AI_API_KEY** in the first field and your OpenAI APIKEY in the variable value field. Then click OK.
 
 <img src=".github/assets/images/add-env-var-step-4.png" width=50% height=50%>
 <br />
 
 **Step 5** - **IMPORTANT** You must restart Windows to apply the new environment variable
 <br /><br />
-
-
 
 
 <!-- Best Practices for API Key Safety -->
