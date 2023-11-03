@@ -11,8 +11,6 @@ How to add NovaAI's Text Completion functionality to Microsoft Word.
 [![CI](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word/actions/workflows/blank.yml/badge.svg)](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word/actions/workflows/blank.yml)&nbsp;&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;&nbsp;
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)&nbsp;&nbsp;
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=badge&logo=openai&logoColor=white)](https://openai.com)&nbsp;&nbsp;
-[![Analytics in Motion](https://raw.githubusercontent.com/analyticsinmotion/.github/main/assets/images/analytics-in-motion-github-badge-rounded.svg)](https://www.analyticsinmotion.com)
 <!-- badges: end -->
 
 <!-- DESCRIPTION -->
